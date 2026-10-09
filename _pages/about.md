@@ -35,6 +35,8 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 ## Research Interests
 
+My research interests and skills include:
+
 - Natural language processing
 - Machine learning
 - LLM reasoning and reinforcement learning
